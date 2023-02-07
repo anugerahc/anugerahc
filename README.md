@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey! 👋
 
-<!--
-**anugerahc/anugerahc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anugerah Christian
+<p align="left">
+  <a href="https://github.com/anugerahc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anugerahc&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugerahc&layout=compact&langs_count=8&theme=blueberry"/>
+  </a>
+</p
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 JavaScript, PHP
+- ⚙️ Laravel, Express, Hapi
+- 💽 MySQL, SQL, Postgres
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- <a href="https://www.linkedin.com/in/anugerahc/" target="_blank">LinkedIn</a>
+- <a href="https://www.instagram.com/_achristx/" target="_blank">Instagram</a>
+- <a href="https://open.spotify.com/user/anugerahchristian" target="_blank">Spotify</a>
